@@ -1,2 +1,2 @@
-# Project-1
-This is my first project of Web Dev using HTML CSS and JS
+# Project-1 (Password Generator)
+This is my first project of Web Dev  using HTML CSS and JS.
